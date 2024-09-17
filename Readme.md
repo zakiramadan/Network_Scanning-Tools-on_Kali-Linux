@@ -4,7 +4,7 @@ This guide provides instructions on how to install and use **Nmap**, **Zenmap**,
 
 ## 1. Nmap
 
-### Installasi
+### Instalasi
 
 Biasanya, Nmap sudah terpasang di Kali Linux. Cek dengan:
 
@@ -34,7 +34,7 @@ Dilihat hasil scan menggunakan nmap pada gambar diatas, kita dapat melihat infor
 
 ## 2. Zenmap
 
-### Installasi
+### Instalasi
 
 Zenmap adalah antarmuka grafis untuk Nmap. Instal dengan:
 
@@ -62,7 +62,7 @@ Zenmap memudahkan penggunaan Nmap melalui GUI.
 
 ## 3. Angry IP Scanner
 
-## Installasi
+## Instalasi
 
 1. Unduh paket `.deb` dari [Angry IP Scanner GitHub Releases](https://github.com/angryip/ipscan/releases/)
 
